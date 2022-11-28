@@ -1,0 +1,6 @@
+
+###
+GET http://localhost:5002/getData
+Accept: application/json
+
+###
